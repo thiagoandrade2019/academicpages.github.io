@@ -19,9 +19,9 @@ Experiências
 ======
 * 2016 a 2019: Estagiário
   * Cotesa Engenharia
-  ** Atividades: Auxiliar no planejamento e controle da manutenção dos contratos de O&M;
-                     Auxiliar na engenharia de manutenção das SEs e LTs associadas;
-                     Auxiliar no gerenciamento dos contratos de O&M controlando os escopos contratuais;
+   * Atividades: Auxiliar no planejamento e controle da manutenção dos contratos de O&M;
+                 Auxiliar na engenharia de manutenção das SEs e LTs associadas;
+                 Auxiliar no gerenciamento dos contratos de O&M controlando os escopos contratuais;
   
 Habilidades
 ======
