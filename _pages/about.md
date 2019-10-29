@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Meu nome é Thiago Carlos Andrade, tenho 26 anos de vida, sou natural de Florianópolis - SC. Atualmente cursando Ciência da Computação na Universidade Federal Fronteira Sul.
+Meu nome é Thiago Carlos Andrade, tenho 26 anos, sou natural de Florianópolis - SC. Atualmente estou cursando Ciência da Computação na Universidade Federal Fronteira Sul.
 
 
