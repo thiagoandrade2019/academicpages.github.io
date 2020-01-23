@@ -41,10 +41,13 @@ Experiências
   
 Habilidades
 ======
-* Python(Iniciante)
-* Data Science(Iniciante)
-* Data Engineer(Iniciante)
-* Inglês(Intermediário)
+* Python
+* Git
+* Scrum
+* SQL (MySQL)
+* NoSQL (Mongo, Redis)
+* Java (Spring Boot)
+* JavaScript (React)
 
 
 
