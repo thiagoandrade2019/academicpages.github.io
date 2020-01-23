@@ -17,6 +17,11 @@ Educação
 
 Experiências
 ======
+* 2020: Bolsista  Desenvolvimento Web.
+  * Empresa: Compasso Tecnologia
+   * Atividades: Estudo de tecnologias para o desenvolvimento web: Metodologias Ágeis (Scrum), 
+                 Segurança, Git, SQL (MySQL), NoSQL (Mongo, Redis), Java (Spring Boot) , JavaScript (React).
+                
 * 2017 a 2019: Planejamento e Controle da Manutenção.
   * Empresa: Cotesa Engenharia
    * Atividades: Auxiliar no planejamento e controle da manutenção dos contratos de O&M;
